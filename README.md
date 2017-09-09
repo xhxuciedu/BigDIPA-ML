@@ -1,10 +1,10 @@
 
-# Big Data Image Processing & Analysis (BigDIPA): Intro to Machine Learning #
+# Big Data Image Processing & Analysis (BigDIPA) #
 
-### Intro 
-This repository contains Jupyter notebooks providing a brief introdcution of machine learning and applying it to medical/biological image analysis. 
+### Introduction ###
+This repository contains Jupyter notebooks providing a brief introduction of machine learning and applying it to medical/biological image analysis. 
 
-It is the machine learning component of BigDIPA shortcourse offered at UC Irinve.  
+It is the machine learning component of BigDIPA international shortcourse offered at UC Irinve.  
 http://bigdipa.ccbs.uci.edu/
 
 ### Getting Started
