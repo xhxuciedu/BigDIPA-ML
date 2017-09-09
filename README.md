@@ -1,6 +1,11 @@
-# Pathology AI #
 
-This repository contains Jupyter notebooks introducing the use of deep learning to perform breast cancer prediction on whole slide images of histological lymph node sections. At a high level, the method uses pretrained Inception V3 model learned on natural images and finetuned for the purpose of cancer prediction.
+# Big Data Image Processing & Analysis (BigDIPA): Intro to Machine Learning #
+
+### Intro 
+This repository contains Jupyter notebooks providing a brief introdcution of machine learning and applying it to medical/biological image analysis. 
+
+It is the machine learning component of BigDIPA shortcourse offered at UC Irinve.  
+http://bigdipa.ccbs.uci.edu/
 
 ### Getting Started
 
@@ -24,3 +29,8 @@ Download/clone this repository to your local drive. You can then start the Jupyt
 
 The code was written with GPU access in mind. If GPU is not available, the training step will run quite slow.
 
+
+
+### Application example: Pathology AI ###
+
+As a specific application example, we will apply deep learning to perform breast cancer prediction on whole slide images of histological lymph node sections. At a high level, the method uses pretrained Inception V3 model learned on natural images and finetuned for the purpose of cancer prediction.
